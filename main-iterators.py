@@ -1,3 +1,5 @@
+# https://dbader.org/blog/python-iterators
+
 class Repeater:
     def __init__(self, value):
         self.value = value
